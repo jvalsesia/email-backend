@@ -78,3 +78,13 @@ Create your first JPA entity
 Easily start your RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
+
+
+### More
+[Related testcontainers...] (https://testcontainers.com/guides/development-and-testing-quarkus-application-using-testcontainers/#_create_customerservice_cdi_bean)
+
+[Related dev-services...] (https://quarkus.io/guides/databases-dev-services)
+
+[Related profiles...] (https://quarkus.io/guides/config-reference#profiles)
+
+[Related flyway...] (https://quarkus.io/guides/flyway)
